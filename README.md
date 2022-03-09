@@ -1,4 +1,4 @@
 # HelloWorld
-First repository
-I am making this change because of pure fun
+First repository\n
+I am making this change because of pure fun\n
 Second Change
